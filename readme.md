@@ -20,7 +20,7 @@ theirs. The end result is that each partner should have the experience of the te
 
 1. Partner 1: Devika Vengurlekar
 2. Partner 2: Yatindra Mahadik
-3. Partner 3: 
+3. Partner 3: Roopali Sarode
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
 you are updating just the [readme.md](readme.md) file, you won't see any changes on localhost. But maybe you can
