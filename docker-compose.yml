@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
     master_branch:
-      image: kaw393939/mywebclass:master
+      image: devika1299/mywebclass_devika1:master
       container_name: master_branch
       pull_policy: always
       restart: always
